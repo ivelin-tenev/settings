@@ -42,6 +42,10 @@
           <option name="url" value="https://git-cfius.ecd.axway.int/securetransport/hada-dist.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ecd.axway.int/pgeorgiev/pipeline-shared-library.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\REPOS" />
